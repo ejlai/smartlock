@@ -1,4 +1,6 @@
 //Android project is based on this github project: https://github.com/HarryGoodwin/Arduino-Android-Sensors
+//which has also be updated for Android Studio 3.2.1. It can also found here:
+//https://github.com/ejlai/Android-to-Arduino-Data-Send-via-Bluetooth-Serial
 package cat.uab.elai.smartlock;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
